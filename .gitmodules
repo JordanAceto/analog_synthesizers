@@ -1,0 +1,24 @@
+[submodule "eurorack/Filter_Carrier_Board"]
+	path = eurorack/Filter_Carrier_Board
+	url = https://github.com/JordanAceto/Filter_Carrier_Board
+[submodule "eurorack/Dual_2164_VCA"]
+	path = eurorack/Dual_2164_VCA
+	url = https://github.com/JordanAceto/Dual_2164_VCA
+[submodule "eurorack/SSM2164-SVF"]
+	path = eurorack/SSM2164-SVF
+	url = https://github.com/JordanAceto/SSM2164-SVF
+[submodule "eurorack/modulation_source"]
+	path = eurorack/modulation_source
+	url = https://github.com/JordanAceto/modulation_source
+[submodule "eurorack/basic_mixer"]
+	path = eurorack/basic_mixer
+	url = https://github.com/JordanAceto/basic_mixer
+[submodule "eurorack/quad_ADSR_board"]
+	path = eurorack/quad_ADSR_board
+	url = https://github.com/JordanAceto/quad_ADSR_board
+[submodule "other_format/angelo_modular"]
+	path = other_format/angelo_modular
+	url = https://github.com/JordanAceto/angelo_modular
+[submodule "eurorack/Oscillator_Carrier_Board"]
+	path = eurorack/Oscillator_Carrier_Board
+	url = https://github.com/JordanAceto/Oscillator_Carrier_Board
