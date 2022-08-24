@@ -30,3 +30,11 @@
 	path = eurorack/Oscillator_Carrier_Board
 	url = https://github.com/JordanAceto/Oscillator_Carrier_Board
 	branch = master
+[submodule "josh_Ox_ribbon_synth"]
+	path = josh_Ox_ribbon_synth
+	url = https://github.com/JordanAceto/josh_Ox_ribbon_synth
+	branch = master
+[submodule "micro-pico"]
+	path = micro-pico
+	url = https://github.com/JordanAceto/micro-pico
+	branch = main
