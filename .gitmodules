@@ -38,3 +38,6 @@
 	path = micro-pico
 	url = https://github.com/JordanAceto/micro-pico
 	branch = main
+[submodule "eurorack/SSM2140_12_stage_phase_shifter"]
+	path = eurorack/SSM2140_12_stage_phase_shifter
+	url = https://github.com/JordanAceto/SSI2140_12_stage_phase_shifter.git
